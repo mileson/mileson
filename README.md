@@ -5,8 +5,8 @@
 AI 独立创造者（OPC）🚀 ex 10 年 toB 产品总监 · 独立开发者，作品累计 200w+ 用户
 
 ✨ **[OpenVibeCoding](https://github.com/mileson/open-vibecoding)** — 产品经理的 Vibe Coding 神器（50★）
-📸 **[芝士相机 App](https://apps.apple.com/cn/app/%E8%8A%9D%E5%A3%AB%E7%9B%B8%E6%9C%BA-%E5%A7%BF%E5%8A%BF%E6%A8%A1%E6%9D%BF%E6%8B%8D%E7%85%A7-ai%E7%9B%B8%E6%9C%BA/id6738299859)** — 教男朋友给女朋友拍照的姿势神器
-🤖 **[MotiClaw](https://moticlaw.com)** — 内容创作者的本地 AI 工作台
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-cheesecake.svg" width="28"> **[芝士相机 App](https://apps.apple.com/cn/app/%E8%8A%9D%E5%A3%AB%E7%9B%B8%E6%9C%BA-%E5%A7%BF%E5%8A%BF%E6%A8%A1%E6%9D%BF%E6%8B%8D%E7%85%A7-ai%E7%9B%B8%E6%9C%BA/id6738299859)** — 教男朋友给女朋友拍照的姿势神器
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-moticlaw.svg" width="28"> **[MotiClaw](https://moticlaw.com)** — 内容创作者的本地 AI 工作台
 
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-150-FFD43D?style=flat&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Followers-27-C83BF5?style=flat&logo=github&logoColor=white)
@@ -18,25 +18,29 @@ AI 独立创造者（OPC）🚀 ex 10 年 toB 产品总监 · 独立开发者，
 
 **消费侧**
 
-📸 **[芝士相机 App](https://apps.apple.com/cn/app/%E8%8A%9D%E5%A3%AB%E7%9B%B8%E6%9C%BA-%E5%A7%BF%E5%8A%BF%E6%A8%A1%E6%9D%BF%E6%8B%8D%E7%85%A7-ai%E7%9B%B8%E6%9C%BA/id6738299859)** — 男朋友给女朋友拍照的姿势轮廓神器
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-cheesecake.svg" width="28"> **[芝士相机 App](https://apps.apple.com/cn/app/%E8%8A%9D%E5%A3%AB%E7%9B%B8%E6%9C%BA-%E5%A7%BF%E5%8A%BF%E6%A8%A1%E6%9D%BF%E6%8B%8D%E7%85%A7-ai%E7%9B%B8%E6%9C%BA/id6738299859)** — 男朋友给女朋友拍照的姿势轮廓神器
 
-🎬 **[成片相机 App](https://apps.apple.com/bo/app/%E6%88%90%E7%89%87%E7%9B%B8%E6%9C%BA/id6781334421)** — 口播视频一站式拍剪工具（已进入 Trae AI 复赛）
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-chengpian.svg" width="28"> **[成片相机 App](https://apps.apple.com/bo/app/%E6%88%90%E7%89%87%E7%9B%B8%E6%9C%BA/id6781334421)** — 口播视频一站式拍剪工具（已进入 Trae AI 复赛）
 
 🎵 **Aglaope App** — 最懂你品味的 AI 音乐伙伴（内测中）
 
 😎 **GIF 表情包制作大师**（微信小程序）— 累计 200w+ 用户
 
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/qr-gif.svg" width="160" alt="微信扫码体验 GIF 表情包制作大师">
+
+👆 微信扫码体验
+
 **生产力**
 
-🤖 **[MotiClaw](https://moticlaw.com)** — 内容创作者的本地 AI 工作台：一键领取本地 AI 伙伴
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-moticlaw.svg" width="28"> **[MotiClaw](https://moticlaw.com)** — 内容创作者的本地 AI 工作台：一键领取本地 AI 伙伴
 
 ⚡ **[OpenVibeCoding](https://github.com/mileson/open-vibecoding)** — 为 Agent 提供产品、交互设计、研发、测试与 Vibe Coding 增强能力（50★）
 
 ![open-vibecoding](https://raw.githubusercontent.com/mileson/mileson/main/assets/open-vibecoding.svg)
 
-📖 **[AI 粉皮书](https://chaojifeng.me)** — 给 AI 新手的免费在线工具书，10 本
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-pinkbook.svg" width="28"> **[AI 粉皮书](https://chaojifeng.me)** — 给 AI 新手的免费在线工具书，10 本
 
-💳 **[SoulCard](https://soulcard.me/card/chaojifeng)** — 我的数字名片
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-soulcard.svg" width="28"> **[SoulCard](https://soulcard.me/card/chaojifeng)** — 我的数字名片
 
 ---
 
