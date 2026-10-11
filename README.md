@@ -1,4 +1,4 @@
-![超级峰 Mileson](assets/hero.jpg)
+![超级峰 Mileson](https://raw.githubusercontent.com/mileson/mileson/main/assets/hero.svg)
 
 # 超级峰 Mileson
 
@@ -32,7 +32,7 @@ AI 独立创造者（OPC）🚀 ex 10 年 toB 产品总监 · 独立开发者，
 
 ⚡ **[OpenVibeCoding](https://github.com/mileson/open-vibecoding)** — 为 Agent 提供产品、交互设计、研发、测试与 Vibe Coding 增强能力（50★）
 
-![open-vibecoding](assets/open-vibecoding.jpg)
+![open-vibecoding](https://raw.githubusercontent.com/mileson/mileson/main/assets/open-vibecoding.svg)
 
 📖 **[AI 粉皮书](https://chaojifeng.me)** — 给 AI 新手的免费在线工具书，10 本
 
@@ -72,7 +72,7 @@ AI 独立创造者（OPC）🚀 ex 10 年 toB 产品总监 · 独立开发者，
 
 ### 一张图看懂我
 
-<img src="assets/about.jpg" width="600" alt="超级峰个人说明书" />
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/about.svg" width="600" alt="超级峰个人说明书" />
 
 ---
 
