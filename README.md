@@ -18,29 +18,59 @@ AI 独立创造者（OPC）🚀 ex 10 年 toB 产品总监 · 独立开发者，
 
 **消费侧**
 
-<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-cheesecake.svg" width="28"> **[芝士相机 App](https://apps.apple.com/cn/app/%E8%8A%9D%E5%A3%AB%E7%9B%B8%E6%9C%BA-%E5%A7%BF%E5%8A%BF%E6%A8%A1%E6%9D%BF%E6%8B%8D%E7%85%A7-ai%E7%9B%B8%E6%9C%BA/id6738299859)** — 男朋友给女朋友拍照的姿势轮廓神器
-
-<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-chengpian.svg" width="28"> **[成片相机 App](https://apps.apple.com/bo/app/%E6%88%90%E7%89%87%E7%9B%B8%E6%9C%BA/id6781334421)** — 口播视频一站式拍剪工具（已进入 Trae AI 复赛）
-
-🎵 **Aglaope App** — 最懂你品味的 AI 音乐伙伴（内测中）
-
-😎 **GIF 表情包制作大师**（微信小程序）— 累计 200w+ 用户
-
-<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/qr-gif.svg" width="160" alt="微信扫码体验 GIF 表情包制作大师">
-
-👆 微信扫码体验
+<table>
+<tr>
+<td align="center" valign="top" width="25%">
+<a href="https://apps.apple.com/cn/app/%E8%8A%9D%E5%A3%AB%E7%9B%B8%E6%9C%BA-%E5%A7%BF%E5%8A%BF%E6%A8%A1%E6%9D%BF%E6%8B%8D%E7%85%A7-ai%E7%9B%B8%E6%9C%BA/id6738299859"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-cheesecake.svg" width="64"></a><br>
+<a href="https://apps.apple.com/cn/app/%E8%8A%9D%E5%A3%AB%E7%9B%B8%E6%9C%BA-%E5%A7%BF%E5%8A%BF%E6%A8%A1%E6%9D%BF%E6%8B%8D%E7%85%A7-ai%E7%9B%B8%E6%9C%BA/id6738299859"><b>芝士相机 App</b></a><br>
+<sub>男朋友给女朋友拍照的姿势轮廓神器</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://apps.apple.com/bo/app/%E6%88%90%E7%89%87%E7%9B%B8%E6%9C%BA/id6781334421"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-chengpian.svg" width="64"></a><br>
+<a href="https://apps.apple.com/bo/app/%E6%88%90%E7%89%87%E7%9B%B8%E6%9C%BA/id6781334421"><b>成片相机 App</b></a><br>
+<sub>口播视频一站式拍剪工具<br>已进入 Trae AI 复赛</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-aglaope.svg" width="64"><br>
+<b>Aglaope App</b><br>
+<sub>最懂你品味的 AI 音乐伙伴<br>（内测中）</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-gif.svg" width="64"><br>
+<b>GIF 表情包制作大师</b><br>
+<sub>微信小程序 · 累计 200w+ 用户</sub><br>
+<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/qr-gif.svg" width="110"><br>
+<sub>微信扫码体验</sub>
+</td>
+</tr>
+</table>
 
 **生产力**
 
-<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-moticlaw.svg" width="28"> **[MotiClaw](https://moticlaw.com)** — 内容创作者的本地 AI 工作台：一键领取本地 AI 伙伴
-
-⚡ **[OpenVibeCoding](https://github.com/mileson/open-vibecoding)** — 为 Agent 提供产品、交互设计、研发、测试与 Vibe Coding 增强能力（50★）
-
-![open-vibecoding](https://raw.githubusercontent.com/mileson/mileson/main/assets/open-vibecoding.svg)
-
-<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-pinkbook.svg" width="28"> **[AI 粉皮书](https://chaojifeng.me)** — 给 AI 新手的免费在线工具书，10 本
-
-<img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-soulcard.svg" width="28"> **[SoulCard](https://soulcard.me/card/chaojifeng)** — 我的数字名片
+<table>
+<tr>
+<td align="center" valign="top" width="25%">
+<a href="https://moticlaw.com"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-moticlaw.svg" width="64"></a><br>
+<a href="https://moticlaw.com"><b>MotiClaw</b></a><br>
+<sub>内容创作者的本地 AI 工作台</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/mileson/open-vibecoding"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-openvibecoding.svg" width="64"></a><br>
+<a href="https://github.com/mileson/open-vibecoding"><b>OpenVibeCoding</b></a><br>
+<sub>Agent 产品研发增强神器<br>50★ · MIT 开源</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://chaojifeng.me"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-pinkbook.svg" width="64"></a><br>
+<a href="https://chaojifeng.me"><b>AI 粉皮书</b></a><br>
+<sub>给 AI 新手的免费在线工具书</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://soulcard.me/card/chaojifeng"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-soulcard.svg" width="64"></a><br>
+<a href="https://soulcard.me/card/chaojifeng"><b>SoulCard</b></a><br>
+<sub>我的数字名片</sub>
+</td>
+</tr>
+</table>
 
 ---
 
