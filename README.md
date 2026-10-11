@@ -122,6 +122,31 @@ AI 独立创造者（OPC）🚀 ex 10 年 toB 产品总监 · 独立开发者，
 
 ### 找到我
 
-**自媒体** · <img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-xiaohongshu.svg" width="20"> [小红书](https://www.xiaohongshu.com/user/profile/58b798d050c4b4193c8111c7) · <img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-douyin.svg" width="20"> [抖音](https://www.douyin.com/user/MS4wLjABAAAA2I1fDroAQZrM8Tdz6MZfd28MCaRizKmD2-lr7UQP-a0) · <img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-kuaishou.svg" width="20"> [快手](https://www.kuaishou.com/profile/3xeqsssav5aif84) · <img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-bilibili.svg" width="20"> [B站](https://space.bilibili.com/1771288) · <img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-x.svg" width="20"> [X @Mileson07](https://x.com/Mileson07)
-
-**名片** · <img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-soulcard.svg" width="20"> [soulcard.me/card/chaojifeng](https://soulcard.me/card/chaojifeng)
+<table>
+<tr>
+<td align="center" valign="top">
+<a href="https://www.xiaohongshu.com/user/profile/58b798d050c4b4193c8111c7"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-xiaohongshu.svg" width="56"></a><br>
+<a href="https://www.xiaohongshu.com/user/profile/58b798d050c4b4193c8111c7">小红书</a>
+</td>
+<td align="center" valign="top">
+<a href="https://www.douyin.com/user/MS4wLjABAAAA2I1fDroAQZrM8Tdz6MZfd28MCaRizKmD2-lr7UQP-a0"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-douyin.svg" width="56"></a><br>
+<a href="https://www.douyin.com/user/MS4wLjABAAAA2I1fDroAQZrM8Tdz6MZfd28MCaRizKmD2-lr7UQP-a0">抖音</a>
+</td>
+<td align="center" valign="top">
+<a href="https://www.kuaishou.com/profile/3xeqsssav5aif84"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-kuaishou.svg" width="56"></a><br>
+<a href="https://www.kuaishou.com/profile/3xeqsssav5aif84">快手</a>
+</td>
+<td align="center" valign="top">
+<a href="https://space.bilibili.com/1771288"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-bilibili.svg" width="56"></a><br>
+<a href="https://space.bilibili.com/1771288">B站</a>
+</td>
+<td align="center" valign="top">
+<a href="https://x.com/Mileson07"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-x.svg" width="56"></a><br>
+<a href="https://x.com/Mileson07">X</a>
+</td>
+<td align="center" valign="top">
+<a href="https://soulcard.me/card/chaojifeng"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/logo-soulcard.svg" width="56"></a><br>
+<a href="https://soulcard.me/card/chaojifeng">数字名片</a>
+</td>
+</tr>
+</table>
