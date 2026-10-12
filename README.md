@@ -74,6 +74,56 @@ AI 独立创造者（OPC）🚀 ex 10 年 toB 产品总监 · 独立开发者，
 
 ---
 
+### 🛠️ 我的 Skills
+
+我的下一步：把工作流沉淀为 Skill，让 Agent 照流程干活，给 AI 加新能力。
+
+**工作台 Skills**
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/mileson/social-publish-package"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-skill-video.svg" width="64"></a><br>
+<a href="https://github.com/mileson/social-publish-package"><b>视频预发布工作台</b></a><br>
+<sub>social-publish-package<br>视频发布前的检查工作台</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/mileson/image-text-publish-workbench"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-skill-imagetext.svg" width="64"></a><br>
+<a href="https://github.com/mileson/image-text-publish-workbench"><b>图文发布工作台</b></a><br>
+<sub>image-text-publish-workbench<br>选封面、改文案、交付成稿</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/mileson/wechat-group-hygiene"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-skill-hygiene.svg" width="64"></a><br>
+<a href="https://github.com/mileson/wechat-group-hygiene"><b>社群净化工作台</b></a><br>
+<sub>wechat-group-hygiene<br>社群内容审查工作台</sub>
+</td>
+</tr>
+</table>
+
+**AI 工具 Skills**
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/mileson/screenshot-annotator"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-skill-annotator.svg" width="64"></a><br>
+<a href="https://github.com/mileson/screenshot-annotator"><b>截图标注 Skill</b></a><br>
+<sub>screenshot-annotator<br>截图一键变成图文教程</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/mileson/shenbi-maliang"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-skill-maliang.svg" width="64"></a><br>
+<a href="https://github.com/mileson/shenbi-maliang"><b>神笔马良 Skill</b></a><br>
+<sub>shenbi-maliang<br>真人形象迁移与复刻</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/mileson/chaojifeng-skills"><img src="https://raw.githubusercontent.com/mileson/mileson/main/assets/icon-skill-box.svg" width="64"></a><br>
+<a href="https://github.com/mileson/chaojifeng-skills"><b>Skills 集合</b></a><br>
+<sub>chaojifeng-skills · 9★<br>全部 Skills 总入口</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ### 开源项目
 
 **[openclaw-feishu-delivery](https://github.com/mileson/openclaw-feishu-delivery)** — OpenClaw 飞书消息发送神器：美观模板、多 Agent 定时汇报、失败重发
